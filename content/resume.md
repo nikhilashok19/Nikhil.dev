@@ -1,6 +1,6 @@
 # Nikhil Ashok
 
-*Embedded Systems Engineer*
+*Computer Science Graduate*
 Peshawar, Pakistan | +92 313 9553030 | [nikhilashok19@gmail.com](mailto:nikhilashok19@gmail.com) | [linkedin.com/in/nikhil-ashok19](https://www.linkedin.com/in/nikhil-ashok19) | [github.com/nikhilashok19](https://github.com/nikhilashok19)
 
 ## SUMMARY
