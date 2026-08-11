@@ -39,7 +39,7 @@ export function ResumeSection() {
           <div className="flex h-[40vh] flex-col items-center justify-center gap-3 p-8 text-center">
             <FileText className="h-8 w-8 text-muted" />
             <p className="text-muted">
-              Resume Live Preview. If the document fails to load, please download the CV below.
+              CV Live Preview. If the document fails to load, please download the CV below.
             </p>
           </div>
         </object>
