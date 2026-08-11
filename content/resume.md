@@ -14,14 +14,14 @@ Results-driven Computer Science graduate specializing in embedded systems hardwa
 * **Frameworks:** Flutter
 * **IoT & Hardware:** ESP32, ESP32-S3, Raspberry Pi 3B, Arduino Uno, NodeMCU ESP8266, Sensor Interfacing & Calibration
 * **AI & Machine Learning:** Gemini API, Artificial Neural Networks (ANN), Random Forest, XGBoost, Model Training & Evaluation
-* **Cloud & Backend:** Google Firebase (Realtime Database, Firestore, Auth, Cloud Functions), Supabase, REST APIs, SQL
+* **Cloud & Backend:** Google Firebase, Realtime Database, Firestore, Auth, Cloud Functions, Supabase, REST APIs, SQL
 
 ## WORK EXPERIENCE
 
 **IoT Products Developer (Intern)** — June 2025 – December 2025
 *AsTech Solutions*
 * Engineered end-to-end IoT solutions by integrating microcontrollers (ESP32) with cloud databases and Flutter applications, enabling real-time remote monitoring and device control.
-* Developed and deployed an automated Smart Sanitary Pad Dispenser with biometric authentication for NIC Peshawar, servicing 200+ active facility users with a 99% dispensing success rate.
+* Developed and deployed an automated Smart Sanitary Pad Dispenser with biometric authentication for NIC Peshawar, servicing 50+ active facility users with a 99% dispensing success rate.
 * Designed a Universal Multi-Frequency RFID Reader replacing 3 standalone units, cutting hardware production costs by 50% and streamlining multi-card scanning efficiency.
 * Interfaced IR sensor modules with ESP32 microcontrollers to retrofit conventional AC units into smart appliances, enabling automated remote controlling, scheduling and power optimization.
 
