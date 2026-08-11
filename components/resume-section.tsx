@@ -22,7 +22,7 @@ export function ResumeSection() {
             </span>
             <div>
               <p className="font-display font-semibold text-text">Nikhil Ashok.pdf</p>
-              <p className="font-mono text-xs text-muted">Updated automatically from /public/resume</p>
+              <p className="font-mono text-xs text-muted">CV Live Preview</p>
             </div>
           </div>
           <a
@@ -39,8 +39,7 @@ export function ResumeSection() {
           <div className="flex h-[40vh] flex-col items-center justify-center gap-3 p-8 text-center">
             <FileText className="h-8 w-8 text-muted" />
             <p className="text-muted">
-              The preview will appear here once <code className="font-mono text-secondary">Nikhil Ashok.pdf</code> is
-              added to <code className="font-mono text-secondary">public/resume/</code>.
+              Resume Live Preview. If the document fails to load, please download the CV below.
             </p>
           </div>
         </object>
