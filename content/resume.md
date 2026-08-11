@@ -32,11 +32,6 @@ Results-driven Computer Science graduate specializing in embedded systems hardwa
 Grade / CGPA: 4.0/4.0
 * **Relevant Coursework:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), IoT & Embedded Systems, Database Systems, Mobile App Development, Web Engineering, Information Security, Game Development, Cloud Computing, Computer Networks, Parallel and Distributed Computing, Artificial Intelligence, Machine Learning, Operating Systems, Algorithm Analysis.
 
-**Bachelor of Science in Computer Science Engineering** — October 2022 – August 2026
-*CECOS University of IT and Emerging Sciences, Peshawar*
-Grade / CGPA: 4.0/4.0
-* **Relevant Coursework:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), IoT & Embedded Systems, Database Systems, Mobile App Development, Web Engineering, Information Security, Game Development, Cloud Computing, Computer Networks, Parallel and Distributed Computing, Artificial Intelligence, Machine Learning, Operating Systems, Algorithm Analysis.
-
 ## PROJECTS
 
 **Aqua Sentinel (IoT & ML-Based Water Management System)**
