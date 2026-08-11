@@ -37,16 +37,19 @@ Grade / CGPA: 4.0/4.0
 **Aqua Sentinel (IoT & ML-Based Water Management System)**
 * Developed an ESP32-based smart water management prototype utilizing flow and quality sensors to automate leak detection, water quality monitoring, and usage tracking via a custom smart meter with real-time alerts, consumption analytics, and automated water pump control in a mobile app.
 * Integrated the Gemini API into a cross-platform Flutter application to deliver personalized water conservation tips and AI-driven telemetry analytics for users.
-[github.com/aquasentinel](https://github.com/aquasentinel)
+[GitHub Repository](https://github.com/farzask/aqua-sentinel)
 
 **IoT Sanitary Napkins Dispenser (Female Health Tech)**
 * Designed an automated pad dispensing mechanism equipped with biometric access using standalone fingerprint modules and ESP32 hardware.
 * Interfaced ESP32 hardware with a full-stack Flutter mobile application via Bluetooth to enable remote biometric profile registration and manage admin controls.
-[github.com/dispenser](https://github.com/dispenser)
+[GitHub Repository](https://github.com/nikhilashok19/Smart-Sanitary-Pad-Dispenser)
+
+**Smart Blind Stick**
+* Built a multi-sensor assistive smart stick featuring obstacle/wet-floor detection via voice/vibration feedback, alongside manual SOS button triggering and automated fall-detection GPS alerting over GSM networks.
 
 **E-Certificate Generator & Verification Portal**
 * Developed an automated e-certificate portal with Next.js, TypeScript, and Tailwind CSS to manage e-certificate generation, CSV batch generation, PDF export, QR verification scanning, live previews, and complete admin record tracking.
-[github.com/e-certportal](https://github.com/e-certportal)
+[GitHub Repository](https://github.com/farzask/toop-certificate-generator)
 
 ## CERTIFICATIONS
 
