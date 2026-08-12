@@ -66,6 +66,11 @@ CGPA: 4.0/4.0
 Credential ID: UC-a1505838-0a61-46c8-9fc7-02c20e06367a
 * **Skills:** Cross-platform mobile app development, state management, REST API integration, Core Flutter & Dart Concepts, UI & Design Skills, and full-stack Flutter architecture.
 
+**Claude 101** — 2026
+*Anthropic*
+Credential ID: kd9upa7hsgqi
+* **Skills:** Prompt Engineering, AI For Research, Artifacts, Claude For Workflow.
+
 **Introduction to Front-End Web Development** — 2023
 *Coursera Inc.*
 Credential ID: MVRPB4JYSXVS
