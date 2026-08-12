@@ -51,6 +51,10 @@ CGPA: 4.0/4.0
 * Developed an automated e-certificate portal with Next.js, TypeScript, and Tailwind CSS to manage e-certificate generation, CSV batch generation, PDF export, QR verification scanning, live previews, and complete admin record tracking.
 [GitHub Repository](https://github.com/farzask/toop-certificate-generator)
 
+**ATS Resume Builder Tool**
+* A privacy-first, purely client-side web application designed to generate perfectly formatted, ATS-optimized resumes. Operating entirely within the browser with zero build steps or servers, it features a live paginated preview, granular typography controls, and seamless multi-format exporting to PDF, DOCX, Markdown, and JSON.
+[Live Preview](https://ats-resume-builder-tool.vercel.app/)
+
 ## CERTIFICATIONS
 
 **Soft Skills Training Program** — June 2026
