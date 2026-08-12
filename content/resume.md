@@ -53,7 +53,7 @@ CGPA: 4.0/4.0
 
 **ATS Resume Builder Tool**
 * A privacy-first, purely client-side web application designed to generate perfectly formatted, ATS-optimized resumes. Operating entirely within the browser with zero build steps or servers, it features a live paginated preview, granular typography controls, and seamless multi-format exporting to PDF, DOCX, Markdown, and JSON.
-[Live Preview](https://ats-resume-builder-tool.vercel.app/)
+[GitHub Repository](https://github.com/nikhilashok19/ATS-Resume-Builder-Tool.git)
 
 ## CERTIFICATIONS
 
