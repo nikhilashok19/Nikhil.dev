@@ -48,6 +48,32 @@ export function Navbar({ name }: { name: string }) {
 
   const firstName = name.split(" ")[0] || name;
 
+  const handleNavClick = (
+    e: React.MouseEvent<HTMLAnchorElement>,
+    id: string
+  ) => {
+    e.preventDefault();
+    setOpen(false);
+
+    setTimeout(() => {
+      const el = document.getElementById(id);
+      if (!el) return;
+
+      if (id === "home") {
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      } else {
+        const headerOffset = 70;
+        const elementPosition = el.getBoundingClientRect().top;
+        const offsetPosition = elementPosition + window.scrollY - headerOffset;
+
+        window.scrollTo({
+          top: offsetPosition,
+          behavior: "smooth",
+        });
+      }
+    }, 150);
+  };
+
   return (
     <header
       className={cn(
@@ -106,7 +132,7 @@ export function Navbar({ name }: { name: string }) {
               <li key={s.id} className="border-t border-border/60">
                 <a
                   href={`#${s.id}`}
-                  onClick={() => setOpen(false)}
+                  onClick={(e) => handleNavClick(e, s.id)}
                   className={cn(
                     "block px-6 py-3 font-mono text-sm",
                     active === s.id ? "text-primary" : "text-muted"
