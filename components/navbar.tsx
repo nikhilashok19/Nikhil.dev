@@ -14,7 +14,7 @@ const SECTIONS = [
   { id: "education", label: "Education" },
   { id: "certifications", label: "Certifications" },
   { id: "achievements", label: "Achievements" },
-  { id: "resume", label: "Resume" },
+  // { id: "resume", label: "Resume" },
   { id: "contact", label: "Contact" },
 ];
 

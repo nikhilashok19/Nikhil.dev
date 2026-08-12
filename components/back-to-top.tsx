@@ -16,7 +16,7 @@ export function BackToTop() {
 
   return (
     <AnimatePresence>
-      {visible && (
+      {/* {visible && (
         <motion.button
           initial={{ opacity: 0, y: 16 }}
           animate={{ opacity: 1, y: 0 }}
@@ -27,7 +27,7 @@ export function BackToTop() {
         >
           <ArrowUp className="h-5 w-5" />
         </motion.button>
-      )}
+      )} */}
     </AnimatePresence>
   );
 }
