@@ -1,7 +1,7 @@
 # Nikhil Ashok
 
 *Computer Science Graduate*
-Peshawar, Pakistan | +92 313 9553030 | [nikhilashok19@gmail.com](mailto:nikhilashok19@gmail.com) | [linkedin.com/in/nikhil-ashok19](https://www.linkedin.com/in/nikhil-ashok19) | [github.com/nikhilashok19](https://github.com/nikhilashok19)
+Islamabad, Pakistan | +92 313 9553030 | [nikhilashok19@gmail.com](mailto:nikhilashok19@gmail.com) | [linkedin.com/in/nikhil-ashok19](https://www.linkedin.com/in/nikhil-ashok19) | [github.com/nikhilashok19](https://github.com/nikhilashok19)
 
 ## SUMMARY
 
@@ -21,12 +21,14 @@ Results-driven Computer Science graduate specializing in embedded systems hardwa
 **IoT Products Developer (Intern)** — June 2025 – December 2025
 *AsTech Solutions*
 * Engineered end-to-end IoT solutions by integrating microcontrollers (ESP32) with cloud databases and Flutter applications, enabling real-time remote monitoring and device control.
-* Developed and deployed an automated Smart Sanitary Pad Dispenser with biometric authentication for NIC Peshawar, servicing 50+ active facility users with a 99% dispensing success rate.
+* Developed and deployed an automated Smart Sanitary Pad Dispenser with biometric authentication for NIC Peshawar, servicing 50+ active facility usersbased  with a 99% dispensing success rate.
 * Designed a Universal Multi-Frequency RFID Reader replacing 3 standalone units, cutting hardware production costs by 50% and streamlining multi-card scanning efficiency.
 * Interfaced IR sensor modules with ESP32 microcontrollers to retrofit conventional AC units into smart appliances, enabling automated remote controlling, scheduling and power optimization.
 
 ## EDUCATION
 
+**Master of Science in Computer Science** — September 2026 – Present
+*National University of Science and Technology, Islamabad*
 **Bachelor of Science in Computer Science** — October 2022 – August 2026
 *CECOS University of IT and Emerging Sciences, Peshawar*
 CGPA: 4.0/4.0
