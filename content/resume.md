@@ -18,6 +18,10 @@ Results-driven Computer Science graduate specializing in embedded systems hardwa
 
 ## WORK EXPERIENCE
 
+**MERN Stack Developer (Intern)** — September 2026 – Present|Remote
+*Ashes Stack*
+* Collaborating directly with executive leadership to architect and build full-stack web applications using MongoDB, Express.js, React, and Node.js. 
+* Developing scalable RESTful APIs and responsive front-end interfaces, ensuring robust performance and clean code across remote development workflows.
 **IoT Products Developer (Intern)** — June 2025 – December 2025
 *AsTech Solutions*
 * Engineered end-to-end IoT solutions by integrating microcontrollers (ESP32) with cloud databases and Flutter applications, enabling real-time remote monitoring and device control.
