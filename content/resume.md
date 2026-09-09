@@ -33,6 +33,7 @@ Results-driven Computer Science graduate specializing in embedded systems hardwa
 
 **Master of Science in Computer Science** — September 2026 – Present
 *National University of Science and Technology, Islamabad*
+* **Relevant Coursework:** Advanced Operating Systems, Advanced Theory of Computation, Mathematical Methods for Computing.
 **Bachelor of Science in Computer Science** — October 2022 – August 2026
 *CECOS University of IT and Emerging Sciences, Peshawar*
 CGPA: 4.0/4.0
