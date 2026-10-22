@@ -68,7 +68,11 @@ CGPA: 4.0/4.0
 
 **CoinHunterPro**
 * Built a crypto analysis tool during the GDG Peshawar Build With Vibes AI Hackathon that integrates the open-source CoinGecko API to process live market rates, calculate RSI indicators, and generate confidence scores to highlight optimal buy opportunities with wishlist tracking.
-[GitHub Repository](https://coin-hunter-pro.vercel.app/)
+[GitHub Repository](https://github.com/nikhilashok19/CoinHunterPro)
+
+**DocFuse**
+* Developed a client-side document processing tool that merges PDFs and image formats (JPG, PNG) with drag-and-drop reordering, custom document filtering (Grayscale Scan, Enhanced B&W) for optimized printing, and direct local execution without server uploads
+[GitHub Repository](https://github.com/nikhilashok19/DocFuse)
 
 ## CERTIFICATIONS
 
