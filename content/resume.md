@@ -66,6 +66,10 @@ CGPA: 4.0/4.0
 * Built a serverless academic hub leveraging lightweight frontend frameworks and GitHub repository storage to consolidate course materials, subject-specific lecture drives, enrollment keys, and real-time timeline announcements into a single unified platform.
 [GitHub Repository](https://github.com/nikhilashok19/CourseRepo)
 
+**CoinHunterPro**
+* Built a crypto analysis tool during the GDG Peshawar Build With Vibes AI Hackathon that integrates the open-source CoinGecko API to process live market rates, calculate RSI indicators, and generate confidence scores to highlight optimal buy opportunities with wishlist tracking.
+[GitHub Repository](https://coin-hunter-pro.vercel.app/)
+
 ## CERTIFICATIONS
 
 **Soft Skills Training Program** — June 2026
