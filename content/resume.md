@@ -62,6 +62,10 @@ CGPA: 4.0/4.0
 * A privacy-first, purely client-side web application designed to generate perfectly formatted, ATS-optimized resumes. Operating entirely within the browser with zero build steps or servers, it features a live paginated preview, granular typography controls, and seamless multi-format exporting to PDF, DOCX, Markdown, and JSON.
 [GitHub Repository](https://github.com/nikhilashok19/ATS-Resume-Builder-Tool.git)
 
+**CourseRepo**
+* Built a serverless academic hub leveraging lightweight frontend frameworks and GitHub repository storage to consolidate course materials, subject-specific lecture drives, enrollment keys, and real-time timeline announcements into a single unified platform.
+[GitHub Repository](https://github.com/nikhilashok19/CourseRepo)
+
 ## CERTIFICATIONS
 
 **Soft Skills Training Program** — June 2026
